@@ -1,5 +1,8 @@
 _repo: Charmes_71062
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71062-h/images/cover.jpg
 creator:
   author:
     agent_name: Valéry, Paul
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry
     - https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71062#Charmes
 gutenberg_issued: '2023-06-27'
 identifiers:
   gutenberg: '71062'
